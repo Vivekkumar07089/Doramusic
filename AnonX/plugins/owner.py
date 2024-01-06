@@ -83,7 +83,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/THE_INCRICIBLE")
+                        "ꜱᴜᴘᴘᴏʀᴛ", url=config.SUPPORT_GROUP)
                 ]
             ]
         ),
@@ -101,7 +101,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/THE_INCRICIBLE")
+                        "ꜱᴜᴘᴘᴏʀᴛ", url=config.SUPPORT_GROUP)
                 ]
             ]
         ),
