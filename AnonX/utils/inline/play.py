@@ -233,25 +233,14 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text="▢", callback_data=f"ADMIN Stop|{chat_id}"
             ),
         ],
-        
-        [
-            InlineKeyboardButton(
-                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/The_Incricible"
-            ),
-        
-            InlineKeyboardButton(
-                text="💘𝐒υρρσят𝐓💘", url="https://t.me/INCRICIBLE"
-            ),
-        ],    
-        [
-            InlineKeyboardButton(
-                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/YOUR_GODFATHER_XD"
-            ),
+      [
+            
         
             InlineKeyboardButton(
                 text="ᴄʟᴏsᴇ", callback_data=f"close"
             )
-        ],
+        ],  
+        
     ]
     return buttons
 
