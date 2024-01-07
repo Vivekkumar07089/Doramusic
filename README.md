@@ -1,4 +1,4 @@
-- <b> _──「 ˹[Your's Music](https://t.me/vivekkumar07089)˼ 」──_ </b>
+- <b> ──「 ˹[Your's Music](https://t.me/vivekkumar07089)˼ 」── </b>
 
 <h2 align="center">
     ──「 ˹Your's Music˼ 」──
