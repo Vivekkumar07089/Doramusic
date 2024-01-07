@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ˹Your's Music˼ 」──
+    ──「 ˹[Your's Music](https://t.me/vivekkumar07089)˼ 」──
 </h2>
 
 <p align="center">
@@ -81,4 +81,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [vivek](https://github.com/vivekkumar07089) ғᴏʀ [ᴍᴏᴏɴ x ᴍᴜsɪᴄ](https://github.com/mrtosumemon/INCRICIBLE_MUSIC)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [vivek](https://github.com/vivekkumar07089) ғᴏʀ [your,s x ᴍᴜsɪᴄ](https://github.com/Vivekkumar07089/Doramusic)_ </b>
