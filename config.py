@@ -14,26 +14,26 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝐌σσ𝐍 𝐗 𝐌υʂι𝐂")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "")
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "5551014551").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/mrtosumemon/DoReAmOn_MuSiC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Vivekkumar07089/Doramusic")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/THE_INCRICIBLE")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/INCRICIBLE")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "180"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
 
-AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
+AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
 AUTO_LEAVE_ASSISTANT_TIME = int(
     getenv("ASSISTANT_LEAVE_TIME", "5400")
 )
