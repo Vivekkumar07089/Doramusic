@@ -8,14 +8,14 @@
 
 <p align="center">
 <a href="https://github.com/Vivekkumar07089/Doramusic/stargazers"><img src="https://img.shields.io/github/stars/mrtosumemon/DOREAMON_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/mrtosumemon/DOREAMON_MUSIC/network/members"> <img src="https://img.shields.io/github/forks/mrtosumemon/DOREAMON_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/mrtosumemon/DOREAMON_MUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Vivekkumar07089/Doramusic/network/members"> <img src="https://img.shields.io/github/forks/mrtosumemon/DOREAMON_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Vivekkumar07089/Doramusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/mrtosumemon/DOREAMON_Music/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/mrtosumemon/DOREAMON_Music?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Vivekkumar07089/Doramusic/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/mrtosumemon/DOREAMON_Music?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/b400c0c6c6b6d600c3215.jpg">
+  <img src="https://telegra.ph/file/2e909e7dd709b380918f7.jpg">
 </p>
 
 <h3 align="center">
@@ -81,4 +81,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ɢᴏᴅғᴀᴛʜᴇʀ](https://github.com/mrtosumemon) ғᴏʀ [ᴍᴏᴏɴ x ᴍᴜsɪᴄ](https://github.com/mrtosumemon/INCRICIBLE_MUSIC)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [vivek](https://github.com/vivekkumar07089) ғᴏʀ [ᴍᴏᴏɴ x ᴍᴜsɪᴄ](https://github.com/mrtosumemon/INCRICIBLE_MUSIC)_ </b>
