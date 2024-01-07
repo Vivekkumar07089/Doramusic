@@ -1,13 +1,13 @@
 <h2 align="center">
-    [──「 ˹Your's Mudic˼ 」──](Https://t.me/TprincemusicBot)
+    ──「 ˹Your's Music˼ 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/929a2ae1bba42e733aae6.jpg">
+  <img src="https://telegra.ph/file/2e909e7dd709b380918f7.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/mrtosumemon/DOREAMON_MUSIC/stargazers"><img src="https://img.shields.io/github/stars/mrtosumemon/DOREAMON_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Vivekkumar07089/Doramusic/stargazers"><img src="https://img.shields.io/github/stars/mrtosumemon/DOREAMON_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/mrtosumemon/DOREAMON_MUSIC/network/members"> <img src="https://img.shields.io/github/forks/mrtosumemon/DOREAMON_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/mrtosumemon/DOREAMON_MUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
