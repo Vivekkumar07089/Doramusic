@@ -84,25 +84,25 @@ PING_IMG_URL = getenv(
 
 PLAYLIST_IMG_URL = "https://telegra.ph/file/2e909e7dd709b380918f7.jpg"
 
-GLOBAL_IMG_URL = "https://telegra.ph/file/7f0490e53d3cce83504af.jpg"
+GLOBAL_IMG_URL = "https://telegra.ph/file/2e909e7dd709b380918f7.jpg"
 
-STATS_IMG_URL = "https://telegra.ph/file/7f0490e53d3cce83504af.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/2e909e7dd709b380918f7.jpg"
 
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/2e909e7dd709b380918f7.jpg"
 
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/2e909e7dd709b380918f7.jpg"
 
-STREAM_IMG_URL = "https://telegra.ph/file/5d33ec7c387985d78352b.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/2e909e7dd709b380918f7.jpg"
 
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/5d33ec7c387985d78352b.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/2e909e7dd709b380918f7.jpg"
 
-YOUTUBE_IMG_URL = "https://telegra.ph/file/7f0490e53d3cce83504af.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/2e909e7dd709b380918f7.jpg"
 
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/3095010ce25b4c55f9823.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/2e909e7dd709b380918f7.jpg"
 
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/3095010ce25b4c55f9823.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/2e909e7dd709b380918f7.jpg"
 
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/3095010ce25b4c55f9823.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/2e909e7dd709b380918f7.jpg"
 
 
 def time_to_seconds(time):
@@ -129,9 +129,9 @@ if UPSTREAM_REPO:
 if PING_IMG_URL:
     if PING_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = "https://telegra.ph/file/7f0490e53d3cce83504af.jpg"
+            PING_IMG_URL = "https://telegra.ph/file/2e909e7dd709b380918f7.jpg"
 
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = ""
+            START_IMG_URL = "https://telegra.ph/file/2e909e7dd709b380918f7.jpg"
