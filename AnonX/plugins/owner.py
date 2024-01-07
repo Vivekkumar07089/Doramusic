@@ -17,7 +17,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/7f0490e53d3cce83504af.jpg",
+        photo=f"https://telegra.ph/file/2e909e7dd709b380918f7.jpg",
         caption=f"""ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴏᴡɴᴇʀ ᴄᴍᴅs""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -37,7 +37,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/7f0490e53d3cce83504af.jpg",
+        photo=f"https://telegra.ph/file/2e909e7dd709b380918f7.jpg",
         caption=f"""ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴏᴡɴᴇʀ ᴄᴍᴅs""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -62,7 +62,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/7f0490e53d3cce83504af.jpg",
+        photo=f"https://telegra.ph/file/2e909e7dd709b380918f7.jpg",
         caption=f"""ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ᴛᴏ ɢᴇᴛ ꜱᴜᴘᴘᴏʀᴛ""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -80,7 +80,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/7f0490e53d3cce83504af.jpg",
+        photo=f"https://telegra.ph/file/2e909e7dd709b380918f7.jpg",
         caption=f"""ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ᴛᴏ ɢᴇᴛ ꜱᴜᴘᴘᴏʀᴛ""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -98,7 +98,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/7f0490e53d3cce83504af.jpg",
+        photo=f"https://telegra.ph/file/2e909e7dd709b380918f7.jpg",
         caption=f"""ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ᴛᴏ ɢᴇᴛ ꜱᴜᴘᴘᴏʀᴛ""",
         reply_markup=InlineKeyboardMarkup(
             [
