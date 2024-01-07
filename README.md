@@ -1,5 +1,7 @@
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [vivek](https://github.com/vivekkumar07089) ғᴏʀ [your,s x ᴍᴜsɪᴄ](https://github.com/Vivekkumar07089/Doramusic)_ </b>
+
 <h2 align="center">
-    ──「 ˹[Your's Music](https://t.me/vivekkumar07089)˼ 」──
+    ──「 ˹Your's Music˼ 」──
 </h2>
 
 <p align="center">
