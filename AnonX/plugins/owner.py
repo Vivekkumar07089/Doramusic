@@ -19,15 +19,7 @@ async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/2e909e7dd709b380918f7.jpg",
         caption=f"""ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴏᴡɴᴇʀ ᴄᴍᴅs""",
-        reply_markup=InlineKeyboardMarkup(
-            [
-                [
-                    InlineKeyboardButton(
-                    text="ᴏᴡɴᴇʀ",
-                    config.OWNER_ID,
-                    )
-                ]
-            ]
+        
         ),
     )
 
@@ -40,14 +32,7 @@ async def help(client: Client, message: Message):
         photo=f"https://telegra.ph/file/2e909e7dd709b380918f7.jpg",
         caption=f"""ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴏᴡɴᴇʀ ᴄᴍᴅs""",
         reply_markup=InlineKeyboardMarkup(
-            [
-                [
-                    InlineKeyboardButton(
-                    text="ᴏᴡɴᴇʀ",
-                  url=config.OWNER_ID,
-                    )
-                ]
-            ]
+            
         ),
     )
 
