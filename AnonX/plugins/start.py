@@ -233,7 +233,7 @@ async def testbot(client, message: Message, _):
                caption=_["start_1"].format(
             message.chat.title, config.MUSIC_BOT_NAME
         ),
-        reply_markup=InlineKeyboardMarkup(out),
+        
     )
 
 
