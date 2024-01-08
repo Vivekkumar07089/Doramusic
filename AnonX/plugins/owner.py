@@ -24,7 +24,7 @@ async def help(client: Client, message: Message):
                 [
                     InlineKeyboardButton(
                     text="ᴏᴡɴᴇʀ",
-                    user_id=OWNER,
+                    config.OWNER_ID,
                     )
                 ]
             ]
@@ -44,7 +44,7 @@ async def help(client: Client, message: Message):
                 [
                     InlineKeyboardButton(
                     text="ᴏᴡɴᴇʀ",
-                  url=config.OWNER_ID
+                  url=config.OWNER_ID,
                     )
                 ]
             ]
