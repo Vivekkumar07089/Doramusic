@@ -155,7 +155,7 @@ async def start_comm(client, message: Message, _):
                 link = result["link"]
                 published = result["publishedTime"]
             searched_text = f"""
- **♕︎sᴏɴɢ ɪɴғᴏʀᴍᴀᴛɪᴏɴ♕︎**\n\n**ɴᴀᴍᴇ ➪ [{title}]({link})**\n**ᴅᴜʀᴀᴛɪᴏɴ ➪ [{duration} ᴍɪɴ.]({link})\n**ᴠɪᴇᴡs ➪ [{views}]({link})**\n**ᴜᴘʟᴏᴀᴅᴇᴅ ᴏʙ ➪ [{published}]({link})**\n**ᴄʜᴀɴɴᴇʟ ➪ [{channel}]({link})**\n**ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ ➪ [ᴠɪsɪᴛ ᴄʜᴀɴɴᴇʟ]({channellink})**\n**ʟɪɴᴋ ➪ [ᴡᴀᴛᴄʜ ᴏɴ ʏᴏᴜᴛᴜʙᴇ]({link})**\n\n☆.............ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ ............☆"""
+ **      ♕︎sᴏɴɢ ɪɴғᴏʀᴍᴀᴛɪᴏɴ♕︎**\n\n**ɴᴀᴍᴇ ➪ [{title}]({link})**\n**ᴅᴜʀᴀᴛɪᴏɴ ➪ [{duration} ᴍɪɴ.]({link})\n**ᴠɪᴇᴡs ➪ [{views}]({link})**\n**ᴜᴘʟᴏᴀᴅᴇᴅ ᴏʙ ➪ [{published}]({link})**\n**ᴄʜᴀɴɴᴇʟ ➪ [{channel}]({link})**\n**ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ ➪ [ᴠɪsɪᴛ ᴄʜᴀɴɴᴇʟ]({channellink})**\n**ʟɪɴᴋ ➪ [ᴡᴀᴛᴄʜ ᴏɴ ʏᴏᴜᴛᴜʙᴇ]({link})**\n\n☆.............ᴊᴀɪ sʜʀᴇᴇ ʀᴀᴍ  ............☆"""
             key = InlineKeyboardMarkup(
                 [
                     [
