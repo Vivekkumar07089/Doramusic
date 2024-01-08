@@ -277,8 +277,7 @@ async def welcome(client, message: Message):
                         userbot.username,
                         userbot.id,
                     ),
-                    reply_markup=InlineKeyboardMarkup(out),
-                )
+                                 )
             if member.id in config.OWNER_ID:
                 return await message.reply_text(
                     _["start_4"].format(
