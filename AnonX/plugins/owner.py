@@ -24,7 +24,7 @@ async def help(client: Client, message: Message):
                 [
                     InlineKeyboardButton(
                     text="ᴏᴡɴᴇʀ",
-                    callback_data="help_callback hb1",
+                    user_id=OWNER,
                     )
                 ]
             ]
@@ -44,7 +44,7 @@ async def help(client: Client, message: Message):
                 [
                     InlineKeyboardButton(
                     text="ᴏᴡɴᴇʀ",
-                    callback_data="help_callback hb1",
+                    user_id=OWNER,
                     )
                 ]
             ]
