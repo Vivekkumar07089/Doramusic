@@ -64,9 +64,9 @@ async def help(client: Client, message: Message):
         text = random.choice(SHAYRI),
         reply_markup=InlineKeyboardMarkup(
             [
-                [
+                                [
                     InlineKeyboardButton(
-                        "✨𝐒υρρσɾ𝐓✨", url=f"https://t.me/THE_INCRICIBLE"),
+                        "ꜱᴜᴘᴘᴏʀᴛ", url=config.SUPPORT_GROUP),
                      ]
             ]
         ),
